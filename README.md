@@ -35,6 +35,7 @@ _If it's not working, edit this readme (add something and commit) to trigger sta
 ## Contribution
 
 To set up your environment to develop this theme, run `bundle install` after cloning this repository in your local machine.
+> maybe `gem install execjs` and install nodejs
 
 Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. `_notes` contain all atomic notes. If you want to use this for blog, add posts inside `_posts` folder, following standard Jekyll frontamtter. 
 
